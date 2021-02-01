@@ -5,5 +5,3 @@ This repo consists of assignments done in partial fulfillment of the requirement
 ## Objectives:
 * Implement and apply various image contrast enhancement techniques.
 * Understand and apply lowpass, highpass, bandreject, and bandpass filtering in spatial and frequency domain.
-
-
